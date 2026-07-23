@@ -1,4 +1,4 @@
-# 🪐 Kepler Orbit -- 3D Apsidal & Nodal Precession Demo
+# Kepler Orbit - 3D Apsidal & Nodal Precession Demo
 
 An interactive 3D simulation (VPython) of the restricted two-body
 (Kepler) problem, extended with two real orbital-precession effects:

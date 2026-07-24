@@ -185,4 +185,4 @@ kepler-precession-3d/
 
 ## License
 
-Released under the MIT License (https://github.com/Anatase666/Kepler-orbit-simulation?tab=MIT-1-ov-file#) — see the file for details.
+Released under the [MIT License](LICENSE) — see the file for details.
